@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:2:1-74:12
+	package
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:2:70-105
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:13:5-72:19
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\xiao\.android\build-cache\ff6af992dbce85a4c243e6b6ea864a3a52af9fd8\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\xiao\.android\build-cache\99f38514e2acb55339dbc7d7eb0ebad6f370de4c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\xiao\.android\build-cache\0ef12a9cfdd1378ff8509c3af93305db28d0074f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\xiao\.android\build-cache\2cee0930edded4792fbdbfe86764181f6777c028\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\xiao\.android\build-cache\bec2ba4548a44f368be32e8d05618ba299e227fa\output\AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:13:115-147
+	android:hardwareAccelerated
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:13:45-79
+	android:allowBackup
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:13:18-44
+	android:icon
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:13:80-114
+activity#com.here.android.tutorial.BasicMapActivity
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:14:19-51
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:14:52-84
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:18:27-74
+meta-data#com.here.android.maps.appid
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:22:9-101
+	android:value
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:22:63-99
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:22:20-62
+meta-data#com.here.android.maps.apptoken
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:23:9-106
+	android:value
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:23:66-104
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:23:20-65
+meta-data#com.here.android.maps.license.key
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:24:1-763
+	android:value
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:24:61-761
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:24:12-60
+service#com.here.android.mpa.service.MapService
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:64:9-69:19
+	android:process
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:64:128-172
+	android:label
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:64:42-72
+	android:exported
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:64:18-41
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:64:73-127
+intent-filter#com.here.android.mpa.service.MapService.v3
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:65:13-68:29
+action#com.here.android.mpa.service.MapService.v3
+ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:66:17-67:26
+	android:name
+		ADDED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml:66:25-82
+uses-sdk
+INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:HERE-sdk:] C:\Users\xiao\.android\build-cache\13c701919afb9d27be0efa828277d3520ffe13a1\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.0.0] C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\xiao\.android\build-cache\ff6af992dbce85a4c243e6b6ea864a3a52af9fd8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\xiao\.android\build-cache\99f38514e2acb55339dbc7d7eb0ebad6f370de4c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\xiao\.android\build-cache\0ef12a9cfdd1378ff8509c3af93305db28d0074f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\xiao\.android\build-cache\2cee0930edded4792fbdbfe86764181f6777c028\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\xiao\.android\build-cache\bec2ba4548a44f368be32e8d05618ba299e227fa\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\xiao\Desktop\3rd_hackathon\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0] C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\xiao\.android\build-cache\ff6af992dbce85a4c243e6b6ea864a3a52af9fd8\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\xiao\.android\build-cache\99f38514e2acb55339dbc7d7eb0ebad6f370de4c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\xiao\.android\build-cache\0ef12a9cfdd1378ff8509c3af93305db28d0074f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\xiao\.android\build-cache\2cee0930edded4792fbdbfe86764181f6777c028\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] C:\Users\xiao\.android\build-cache\bec2ba4548a44f368be32e8d05618ba299e227fa\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\AndroidManifest.xml:27:13-51

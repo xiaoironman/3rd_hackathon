@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Here Example by Xiao</string>
+
+    <string name="hello_world">Why the fuck there is this watermark here!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_coordinates">Please enter the coordinates here:</string>
+    <string name="my_position">My Position</string>
+    <string name="otherside">The other side of the earth under your feet</string>
+</resources>

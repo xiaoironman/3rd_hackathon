@@ -1,0 +1,7 @@
+#Sun Oct 22 01:34:12 CEST 2017
+base.0=C\:\\Users\\xiao\\Desktop\\DeskTop Files\\HERE files\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f086b5698393ac0b1bd408127fd8d351b373f55c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\xiao\\Desktop\\DeskTop Files\\HERE files\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_62045269b53298e3a2625adf70e51eea35db9343\\classes.dex
+base.1=C\:\\Users\\xiao\\Desktop\\DeskTop Files\\HERE files\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_62045269b53298e3a2625adf70e51eea35db9343
+file.0=C\:\\Users\\xiao\\Desktop\\DeskTop Files\\HERE files\\HERE-sdk\\HERE-sdk\\tutorial\\BasicMapSolution\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f086b5698393ac0b1bd408127fd8d351b373f55c\\classes.dex

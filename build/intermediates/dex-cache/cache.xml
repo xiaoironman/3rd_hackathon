@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\.android\build-cache\99f38514e2acb55339dbc7d7eb0ebad6f370de4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_68845aeaa0c7a35e2c47facf95b1c16d67e2db76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f086b5698393ac0b1bd408127fd8d351b373f55c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\.android\build-cache\cd1db480dc75e34888390e2917545fa805075ae9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac4772dc7178b8b3805190c6c4d546b9f61fdf30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd2e36eafed22df11935939c69bfc3930f47d48e">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_62045269b53298e3a2625adf70e51eea35db9343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\.android\build-cache\bec2ba4548a44f368be32e8d05618ba299e227fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e337de1a95497099606f599f363153577f07551\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\.android\build-cache\2cee0930edded4792fbdbfe86764181f6777c028\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baf57fb81298c2f591b8f9074fb1b4f63734a38f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xiao\.android\build-cache\0ef12a9cfdd1378ff8509c3af93305db28d0074f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\xiao\Desktop\DeskTop Files\HERE files\HERE-sdk\HERE-sdk\tutorial\BasicMapSolution\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7ebdc1120d30b2330d899fe4dcb38a0f7f082a8\classes.dex" />
+    </item>
+
+</items>
