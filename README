@@ -5,3 +5,5 @@ This tutorial application is provided with a set of HERE credentials:
 - license key ("com.here.android.maps.license.key") 
 
 for evaluation purpose only.  These credentials should not be used for other applications.
+
+The codes are edited by "xiaoironman" based on the tutorial code provided by HERE, in order to prepare for the SpaceTech hackathon.
